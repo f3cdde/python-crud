@@ -1,4 +1,3 @@
-```markdown
 # Bem-vindo ao Meu Portfólio
 
 Este é um projeto de CRUD desenvolvido em Python, PostgreSQL e Flask, com uma interface web em HTML, CSS e JavaScript.
